@@ -1,0 +1,2 @@
+rootProject.name='MyDragAndDropTest'
+include ':app'
